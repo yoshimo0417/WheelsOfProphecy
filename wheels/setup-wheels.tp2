@@ -30,7 +30,7 @@ LANGUAGE
 "Simplified Chinese (c4_angel)"
 "schinese"
  ~wheels/lang/english/setup.tra~
- ~wheels/lang/schinese/setup-%WEIDU_OS%.tra~
+ ~wheels/lang/schinese/install.tra~
 
 LANGUAGE 
 "Russian (paladin84)"
